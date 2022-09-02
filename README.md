@@ -31,3 +31,15 @@ or run
 ```bash
 composer require marcolamr/dd
 ```
+
+## Documentation
+
+#### How to use:
+
+```php
+<?php
+
+require __DIR__ . "/../vendor/autoload.php";
+
+dd(true);
+```
