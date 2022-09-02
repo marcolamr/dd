@@ -1,8 +1,8 @@
 # DD Library
 
 [![Maintainer](http://img.shields.io/badge/maintainer-@marcolamr-blue.svg?style=flat-square)](https://github.com/marcolamr)
-[![Source Code](http://img.shields.io/badge/source-marcolamr/cafeapi-blue.svg?style=flat-square)](https://github.com/marcolamr/dd)
-[![PHP from Packagist](https://img.shields.io/packagist/php-v/marcolamr/cafeapi.svg?style=flat-square)](https://packagist.org/packages/marcolamr/dd)
+[![Source Code](http://img.shields.io/badge/source-marcolamr/dd-blue.svg?style=flat-square)](https://github.com/marcolamr/dd)
+[![PHP from Packagist](https://img.shields.io/packagist/php-v/marcolamr/dd.svg?style=flat-square)](https://packagist.org/packages/marcolamr/dd)
 [![Latest Version](https://img.shields.io/github/release/marcolamr/dd.svg?style=flat-square)](https://github.com/marcolamr/dd/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 [![Build](https://img.shields.io/scrutinizer/build/g/marcolamr/dd.svg?style=flat-square)](https://scrutinizer-ci.com/g/marcolamr/dd)
