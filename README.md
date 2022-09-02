@@ -39,7 +39,7 @@ composer require marcolamr/dd
 ```php
 <?php
 
-require __DIR__ . "/../vendor/autoload.php";
+require __DIR__ . "/vendor/autoload.php";
 
 dd(true);
 ```
