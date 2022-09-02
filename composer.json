@@ -1,0 +1,28 @@
+{
+    "name": "marcolamr/dd",
+    "type": "library",
+    "description": "Provides mechanisms for walking through any arbitrary PHP variable",
+    "keywords": ["dump", "debug", "dump and die"],
+    "homepage": "https://github.com/marcolamr",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marcos Roberto",
+            "email": "marcola.mr@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": { 
+            "MarcolaMr\\DD\\": "src/" 
+        },
+        "files": [ 
+            "src/Helpers.php" 
+        ]
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=8.1",
+        "symfony/var-dumper": "^6.1"
+    }
+}
